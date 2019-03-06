@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PuzzleAstar</string>
+    <string name="halamanbermain">Kembali</string>
+    <string name="main">Main</string>
+    <string name="level">Level</string>
+    <string name="tentang_game">Tentang Game</string>
+    <string name="keluar">Keluar</string>
+    <string name="tidak">Tidak</string>
+    <string name="ya">Ya</string>
+    <string name="main_lagi">Main Lagi</string>
+    <string name="Tidak">tidak</string>
+    <string name="menu_utama">Menu Utama</string>
+    <string name="secara_singkat_pilihlah_level_yang_akan_di_mainkan_level_mudah_berisi_3x3_sedang_4x4_sulit_5x5_kemudian_pilihlah_gambar_yang_terdapat_di_galery_untuk_di_jadikan_potongan_puzzle_dan_susunlah_potongan_gambar_yang_sudah_teracak_menjadi_gambar_semula_dengan_menggeser_potongan_gambar_ke_atas_kiri_kanan_dan_ke_bawah_jika_gambar_sudah_tersusun_seperti_semula_dengan_langkah_yang_di_tetapkan_permainan_maka_pemain_berhasil_selamat_mencoba_dan_selamat_bermain">secara singkat pilihlah level yang akan di mainkan, level mudah berisi 3x3,sedang 4x4,sulit 5x5. kemudian pilihlah gambar yang terdapat di galery untuk di jadikan potongan puzzle,dan susunlah potongan gambar yang sudah teracak menjadi gambar semula dengan menggeser potongan gambar ke atas,kiri,kanan dan ke bawah. jika gambar sudah tersusun seperti semula dengan langkah yang di tetapkan permainan maka pemain berhasil. selamat mencoba dan selamat bermain....</string>
+    <string name="aturan_bermain">ATURAN BERMAIN</string>
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.example.erul.puzzleastar.Halaman_utama">
+
+
+    <Button
+        android:id="@+id/pindah_halaman"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="31dp"
+        android:background="@android:color/transparent"
+        android:text="@string/main"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_above="@+id/Level"
+        android:layout_alignLeft="@+id/Level"
+        android:layout_alignStart="@+id/Level" />
+
+    <Button
+        android:id="@+id/Level"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="21dp"
+        android:background="@android:color/transparent"
+        android:text="@string/level"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_above="@+id/Aturan"
+        android:layout_centerHorizontal="true" />
+
+
+    <Button
+        android:id="@+id/Aturan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="34dp"
+        android:background="@android:color/transparent"
+        android:text="@string/tentang_game"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_above="@+id/tkeluar"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/tkeluar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/Level"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/Level"
+        android:layout_marginBottom="61dp"
+        android:background="@android:color/transparent"
+        android:text="@string/keluar"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
